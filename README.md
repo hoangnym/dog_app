@@ -8,7 +8,7 @@ In this project, we applied Convolutional Neural Networks (CNNs) and transfer le
 
 The objective is to identify an estimate of the dog's breed using a classification algorithm, given it is provided an image of a dog. If given an image of a human, the code will identify the resembling dog breed. If the algorithm can't identify the image as a human or dog, it will say so. This use case is a fun exercise for anyone getting started with image classification. 
 
-Feel free to read about the project in this [Medium](https://https://medium.com/@hoangnym/udacity-dog-breed-classification-capstone-project-477093db40ff) blog entry.
+Feel free to read about the project in this [Medium](https://medium.com/@hoangnym/udacity-dog-breed-classification-capstone-project-477093db40ff) blog entry.
 
 ## Table of Contents
 1. [Motivation](#motivation)
